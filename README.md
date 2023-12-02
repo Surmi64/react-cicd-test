@@ -10,6 +10,6 @@
 
 - Save the changes and commit "[mod] trigger for actions workflow"
 
-- It will start the workflow and ddeploy the changes to S3 bucket: https://react-cicd-test-app-istumpf.s3.eu-west-1.amazonaws.com/index.html
+- It will start the workflow and deploy the changes to S3 bucket: https://react-cicd-test-app-istumpf.s3.eu-west-1.amazonaws.com/index.html
 
 - You can check the workflow at: https://github.com/Surmi64/react-cicd-test/actions

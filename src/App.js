@@ -8,14 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>CI/CD test app for The Recruitables!</p>
         <p>Surmi64 done...</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
