@@ -9,6 +9,7 @@ function App() {
         <p>CI/CD test app for The Recruitables!</p>
         <p>Surmi64 done...</p>
         <p>Norbert added this paragraph.</p>
+        <p>KoLi is here !</p>
         <a
           className="App-link"
           href="https://reactjs.org"
